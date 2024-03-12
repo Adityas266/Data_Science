@@ -31,7 +31,7 @@
 💻 To use the code in this repository, simply clone the repository to your local machine:
 ```bash
 git clone https://github.com/Adityas266/Data_Sciences.git
-
+```
 ![image](https://github.com/Adityas266/Data_Sciences/assets/108875499/e09e2d5a-3f9b-4b5a-9b9a-6b3aae598939)
 ![image](https://github.com/Adityas266/Data_Sciences/assets/108875499/f995d48e-043f-4b5e-a26c-a824b41032d2)
 ![image](https://github.com/Adityas266/Data_Sciences/assets/108875499/37c360d3-f084-4287-8fcb-5f620b9cd6e6)
